@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sykes1
-- 👀 I’m interested in UI/UX and Web Dev
-- 🌱 I’m currently learning JavaScript and Material Design
+- 👀 I’m interested in UI/UX and Front End Dev
+- 🌱 I’m currently learning Material Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jeff@sykescreative.com
 
